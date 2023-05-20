@@ -35,7 +35,7 @@
    &trans &trans   &trans &trans   &kp MINUS &kp LPAR    &kp RPAR  &kp EQUAL &trans          &trans    &trans   &trans
    &trans &kp EXCL &kp AT &kp HASH &kp DLLR  &kp PRCNT   &kp CARET &kp AMPS  &kp KP_MULTIPLY &kp UNDER &kp PLUS &trans
    &trans &trans   &trans &trans   &trans    &kp LBKT    &kp RBRC  &trans    &trans          &trans    &trans   &trans
-                          &kp LGUI &trans    &kp RET     &kp SPACE &BSPC     &kp RALT
+                          &kp LGUI &trans    &kp RET     &kp SPACE &kp BSPC  &kp RALT
                         >;
                 };
 
