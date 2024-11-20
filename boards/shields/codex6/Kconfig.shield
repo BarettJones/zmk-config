@@ -1,0 +1,3 @@
+# No whitespace after the comma or in your keyboard name!
+config SHIELD_CODEX6
+    def_bool $(shields_list_contains,codex6)
