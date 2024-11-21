@@ -14,8 +14,8 @@
 
         default_layer {
             bindings = <
-                &kp A       &kp B       &kp KP_N3
-                &kp KP_N4   &kp KP_N5   &bootloader
+                &kp A       &kp B       &kp C
+                &kp D   &kp E   &bootloader
             >;
         };
     };
